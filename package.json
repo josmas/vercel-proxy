@@ -1,0 +1,28 @@
+{
+  "name": "vercel-proxy",
+  "version": "0.0.1",
+  "description": "A vercel proxy for Thunkable data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josmas/vercel-proxy.git"
+  },
+  "keywords": [
+    "thunkable",
+    "proxy",
+    "data",
+    "cors"
+  ],
+  "author": "josmasflores@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josmas/vercel-proxy/issues"
+  },
+  "homepage": "https://github.com/josmas/vercel-proxy#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
